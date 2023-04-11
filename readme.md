@@ -1,5 +1,5 @@
 # snippet generator [该项目克隆其他项目原作地址] 
-
+ 项目内容为vscode 代码块的方法,使用方法，将需要利用的代码块，粘贴到左边，右边生成以后，直接粘贴即可。
 [Snippet generator](https://snippet-generator.app/) is a tiny React app to help you create [Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/) and [Atom](https://atom.io/) snippets.
 ## clone project
   first  clone the project
