@@ -1,9 +1,37 @@
-# snippet generator
+# snippet generator [该项目克隆其他项目原作地址] 
 
 [Snippet generator](https://snippet-generator.app/) is a tiny React app to help you create [Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/) and [Atom](https://atom.io/) snippets.
+## clone project
+  first  clone the project
+## install npm 
+    打开网址      https://nodejs.org/zh-cn/download/。
+    MacOs        brew install node
+    国内镜像 
+    windows:
+    linux: 
+## install yarn  [全局安装yarn]
+sudo npm install --global yarn   
+## build the project  
+<code>cd  snippet-generator-master && yarn global add webpack</code>
 
-I built it for fun. It is hosted on Netlify for free (thanks Netlify). The only thing that I pay money for is a domain name (snippet-generator.app). If you enjoy using snippet generator, [help me to renew this domain please](https://paypal.me/pools/c/8p6yWl7QVT).
+webpack-cli
+安装完成后，webpack 命令应该已经在你的系统
+yarn global v1.22.19
+[1/4] 🔍  Resolving packages...
+[2/4] 🚚  Fetching packages...
+[3/4] 🔗  Linking dependencies...
+[4/4] 🔨  Building fresh packages...
+success Installed "webpack@5.78.0" with binaries:
+      - webpack
+success Installed "webpack-cli@5.0.1" with binaries:
+      - webpack-cli
+✨  Done in 26.54s.
 
+## start th porjcet
+  <code>yarn dev</code>   [running project  ]
+  now  enjoy 
+
+.
 Enjoy!
 
-[![snippet generator by Pawel Grzybek](snippet-generator.jpg)](https://snippet-generator.app/)
+
