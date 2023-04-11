@@ -1,6 +1,7 @@
 # snippet generator [vscode 生成代码段的代码] 
 
 [Snippet generator](https://snippet-generator.app/) is a tiny React app to help you create [Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/) and [Atom](https://atom.io/) snippets.
+
 ## clone project [克隆项目]
   first  clone the project
 ## install npm  [安装npm]
@@ -79,7 +80,7 @@ Entrypoint main [big] = main.js
 
 ## 运行界面 website
 
-![snippet-generator](indruction.png)
+![snippet-generator](img/indruction.png)
 
 Enjoy!
 
